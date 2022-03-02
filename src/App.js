@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>DICTIONARY</h1>
-        <Dictionary />
       </header>
+      <Dictionary />
     </div>
   );
 }
