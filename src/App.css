@@ -3,3 +3,8 @@
   font-size: calc(10px + 2vmin);
   color: black;
 }
+
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+}
