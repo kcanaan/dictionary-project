@@ -8,6 +8,12 @@ function App() {
         <h1>📚 DICTIONARY 📚</h1>
       </header>
       <Dictionary />
+      <footer>
+        <small>
+          <a href="https://github.com/kcanaan/dictionary-project"> Coded </a> by
+          Kiara Canaan
+        </small>
+      </footer>
     </div>
   );
 }

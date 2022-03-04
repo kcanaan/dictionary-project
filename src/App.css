@@ -8,3 +8,7 @@
   max-width: 900px;
   margin: 0 auto;
 }
+
+.App footer {
+  text-align: center;
+}
